@@ -26,7 +26,7 @@ In another terminal:
 ```bash
 curl -sS http://127.0.0.1:8000/v1/completions \
   -H 'content-type: application/json' \
-  -H 'x-request-id: portfolio-demo-1' \
+  -H 'x-request-id: api-demo-1' \
   -d '{"prompt":"Summarize a synthetic payment timeout in one sentence."}'
 ```
 

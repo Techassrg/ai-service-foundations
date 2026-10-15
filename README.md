@@ -1,6 +1,6 @@
 # AI Service Foundations
 
-Public portfolio repository: [Techassrg/ai-service-foundations](https://github.com/Techassrg/ai-service-foundations).
+GitHub repository: [Techassrg/ai-service-foundations](https://github.com/Techassrg/ai-service-foundations).
 
 Two independent Python projects show how to expose and validate local LLM capabilities behind explicit contracts.
 
